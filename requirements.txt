@@ -1,0 +1,5 @@
+shapely==1.8.5
+prettytable==3.4.1
+pyquaternion==0.9.9
+efficientnet-pytorch==0.7.1 
+nuscenes-devkit
