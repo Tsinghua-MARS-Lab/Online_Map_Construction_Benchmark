@@ -76,14 +76,14 @@ pip install -r requirements.txt
 **Step 2.** Make a softlink under `dataset` folder.
 
 ```
-mkdir dataset
+mkdir datasets
 ln -s /path/to/nuScenes/ ./datasets/nuScenes
 ```
 
 **Step 3.** Generate annotation files
 
 ```
-python tools/data_converter/nusc_converter.py --data-root ./dataset/nuScenes
+python tools/data_converter/nuscenes_converter.py --data-root ./datasets/nuScenes
 ```
 
 
