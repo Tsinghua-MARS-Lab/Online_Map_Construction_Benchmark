@@ -126,11 +126,8 @@ mmdet3d/.mim
 
 # demo
 demo/
-*.jpg
-*.png
-data/s3dis/Stanford3dDataset_v1.2_Aligned_Version/
-data/scannet/scans/
-data/sunrgbd/OFFICIAL_SUNRGBD/
+
+# large files
 *.obj
 *.ply
 *.zip
