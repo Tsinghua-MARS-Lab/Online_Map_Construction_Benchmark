@@ -245,6 +245,7 @@ eval_config = dict(
         dict(
             type='VectorizeMap',
             coords_dim=coords_dim,
+            roi_size=roi_size,
             simplify=True,
             normalize=False,
         ),
