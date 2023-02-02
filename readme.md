@@ -1,6 +1,6 @@
-# Online Map Construction Benchmark
+# Online HD Map Construction Benchmark for Autonomous Driving
 
-This is a benchmark for online local map construction tasks. The goal of this task is using onboard sensor observation (cameras images/LiDAR scans) to construct local HD map. 
+This is a benchmark for the online map construction task. This task aims to construct the local HD map from onboard sensor observations (cameras images/LiDAR scans). 
 
 ![surrounding_images](https://github.com/Tsinghua-MARS-Lab/Online_Map_Construction_Benchmark/blob/master/resources/surrounding_images.png)
 
