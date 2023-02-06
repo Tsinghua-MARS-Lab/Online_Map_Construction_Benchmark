@@ -155,7 +155,7 @@ python tools/test.py plugin/configs/vector/vectormapnet_nusc.py --checkpoint wor
 Multi GPUs evaluation
 
 ```
-bash tools/dist_test.sh ${CONFIG_PATH} --checkpoint ${CHECKPOINT} ${NUM_GPUS} --eval 
+bash tools/dist_test.sh ${CONFIG_PATH} ${CHECKPOINT} ${NUM_GPUS} --eval 
 ```
 
 #### To evaluate a submission file
